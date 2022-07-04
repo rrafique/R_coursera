@@ -1,2 +1,2 @@
-# R_coursera
+# R coursera
 My R learning. 
